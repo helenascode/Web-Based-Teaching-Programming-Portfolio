@@ -4,4 +4,4 @@ Hi! Welcome to my Web based Teaching Portfolio!! :)
 [Building a House with Alonzo](https://youtu.be/te4YiUhAkbU)
 
 ## Week 2: Repeats Explanation video
-[Dancer Breaking Some Moves](https://youtu.be/TyApYJnyRlw)
+[Dancer Breaking Some Moves](https://youtu.be/OgXTxbeL-xs)
