@@ -5,3 +5,5 @@ Hi! Welcome to my Web based Teaching Portfolio!! :)
 
 ## Week 2: Repeats Explanation video
 [Dancer Breaking Some Moves](https://youtu.be/OgXTxbeL-xs)
+
+[Animal Parade](https://youtu.be/OModlDZIwwk)
