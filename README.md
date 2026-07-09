@@ -1,4 +1,5 @@
-Hi! Welcome to my Web based Teaching Portfolio!! :)
+# 🌱 Web-Based Teaching Programming Portfolio 🌱
+Welcome! See below explanation videos I created throughout my time taking a CS teaching class EDS124BR!
 
 ## Week 1: Sequences Explanation video
 [Building a House with Alonzo](https://youtu.be/te4YiUhAkbU)
