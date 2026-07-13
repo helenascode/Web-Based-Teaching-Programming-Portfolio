@@ -14,3 +14,4 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 [Monkey Needs A Banana](https://youtu.be/xwUsMQYOJgk)
 
 ## Week 4: Variables Explanation video
+[Drawing Shapes](https://youtu.be/Dp6rOplGeSw)
