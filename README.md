@@ -15,3 +15,6 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 
 ## Week 4: Variables Explanation video
 [Drawing Shapes](https://youtu.be/Dp6rOplGeSw)
+
+## Week 5: Conditional Loops Explanation Video
+[Football Game](https://youtu.be/bGpTGydocGw)
