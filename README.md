@@ -21,3 +21,6 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 
 ## Week 6: If Statements Explanation Video
 [Target Ball Game](https://youtu.be/09NFG6Mi3nE)
+
+## Week 7: Nested If/Else Explanation Video
+[Can Norman Swim](https://youtu.be/E6ERdt4tzwM)
