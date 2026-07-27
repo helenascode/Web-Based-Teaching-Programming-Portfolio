@@ -26,4 +26,4 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 [Can Norman Swim](https://youtu.be/E6ERdt4tzwM)
 
 ## Week 8: Compound Conditionals Explanation Video
-[Alonzing Looking For Treasure](https://youtu.be/yntEZk2buXM)
+[Alonzo Looking For Treasure](https://youtu.be/yntEZk2buXM)
