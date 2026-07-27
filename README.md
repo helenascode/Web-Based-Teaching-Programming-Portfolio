@@ -24,3 +24,6 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 
 ## Week 7: Nested If/Else Explanation Video
 [Can Norman Swim](https://youtu.be/E6ERdt4tzwM)
+
+## Week 8: Compound Conditionals Explanation Video
+[Alonzing Looking For Treasure](https://youtu.be/yntEZk2buXM)
