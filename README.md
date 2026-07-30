@@ -27,3 +27,9 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 
 ## Week 8: Compound Conditionals Explanation Video
 [Alonzo Looking For Treasure](https://youtu.be/yntEZk2buXM)
+
+## Week 9: Abstraction Explanation Video
+[Drawing A Landscape](https://youtu.be/PJNNWM7ZLHw)
+
+## Week 10: Lists Explanation Video
+[]()
