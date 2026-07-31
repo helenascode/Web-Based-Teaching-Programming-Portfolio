@@ -32,4 +32,4 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 [Drawing A Landscape](https://youtu.be/PJNNWM7ZLHw)
 
 ## Week 10: Lists Explanation Video
-[]()
+[Naming Countries](https://youtu.be/D-Ek37eBGIs)
